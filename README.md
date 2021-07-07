@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Eva의 Git Page!
+[홍지현](my-intro.md)의 Git Page!
 
 You can use the [editor on GitHub](https://github.com/evahong-21/evahong-21.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
